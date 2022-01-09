@@ -1,7 +1,9 @@
 public class Test2 {
 
 
-    sfasfsd
+    void test2() {
+        // test
+    }
 
 }
 
