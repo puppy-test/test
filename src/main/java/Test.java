@@ -7,6 +7,6 @@ public class Test {
     }
 
     void test2() {
-        System.out.println("test 22222233333");
+        System.out.println("test 4444");
     }
 }
